@@ -26,8 +26,7 @@ print(result,unans)
 
 
 ## OUTPUT :
-![EX-07](https://github.com/Kalpanareshma/EX-7/assets/122040453/d70d2e1c-f626-4f71-be44-05d3af68f1b2)
-
+![ex07 output](https://github.com/Kalpanareshma/EX-7/assets/122040453/6d0cda06-b1db-4c9f-8588-dda2029a7e87)
 
 
 ## RESULT :
